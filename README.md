@@ -5,8 +5,9 @@ HƯỚNG DẪN SỬ DỤNG ỨNG DỤNG QUẢN LÝ ĐỐI TƯỢNG ĐẶC BIỆT
 
 CÁCH CHẠY ỨNG DỤNG:
 1. Giải nén file nhom11de13
-2. Double click vào file "ChayUngDung.bat" để khởi động ứng dụng
-3. Hoặc double click vào file "ChayTrucTiep.bat" (chạy nhanh)
+2. Vào thư mục Project java, vào tiếp thư mục DTDBv1
+3. Double click vào file "ChayUngDung.bat" để khởi động ứng dụng
+4. Hoặc double click vào file "ChayTrucTiep.bat" (chạy nhanh)
 
 YÊU CẦU HỆ THỐNG:
 - Máy tính phải cài đặt Java (JRE) phiên bản 8 trở lên
